@@ -30,7 +30,7 @@
         "typescript": "^4.9.5"
     },
     "dependencies": {
-        "@ton-community/func-js-bin": "0.4.6-wasmfix.debugger.1",
+        "@ton-community/func-js-bin": "0.4.6",
         "arg": "^5.0.2",
         "fflate": "^0.8.2"
     },
